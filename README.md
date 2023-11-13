@@ -31,13 +31,13 @@
 **Цель:**
 Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В распоряжении набор фотографий людей с указанием возраста.
 
-## [Исследование надёжности заёмщиков](https://github.com/Sar-Veter/MyPracticum/tree/32018dfebaa88e8461fc71417b4398b79dc436ea/5-bank-scoring)
+### [Исследование надёжности заёмщиков](https://github.com/Sar-Veter/MyPracticum/tree/32018dfebaa88e8461fc71417b4398b79dc436ea/5-bank-scoring)
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
 
 **Цель:**
 Исследование надёжности заёмщиков для кредитного отдела банка с целью построения модели кредитного скоринга
 
-## [Предсказание стоимоси жилья](https://github.com/Sar-Veter/MyPracticum/tree/c98a77879fd4e4208785abb1645346a6a198eaa6/6-house-price-prediction)
+### [Предсказание стоимоси жилья](https://github.com/Sar-Veter/MyPracticum/tree/c98a77879fd4e4208785abb1645346a6a198eaa6/6-house-price-prediction)
 Участие в тематическом соревновании Kaggle.
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
