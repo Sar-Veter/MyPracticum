@@ -36,3 +36,14 @@
 
 **Цель:**
 Исследование надёжности заёмщиков для кредитного отдела банка с целью построения модели кредитного скоринга
+
+## [Предсказание стоимоси жилья](https://github.com/Sar-Veter/MyPracticum/tree/c98a77879fd4e4208785abb1645346a6a198eaa6/6-house-price-prediction)
+Участие в тематическом соревновании Kaggle.
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+
+**Цель:**
+
+Получена метрика RMSE 0.12832.
+
+https://www.kaggle.com/code/nikitavet/house-prices-prediction-with-pipline-optuna
