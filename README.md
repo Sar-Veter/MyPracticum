@@ -50,8 +50,8 @@ https://www.kaggle.com/code/nikitavet/house-prices-prediction-with-pipline-optun
 
 ### [Классификация изображений](https://github.com/Nikita-Vet/MyPracticum/tree/68710ffa4d09b0845992cc59f524cfce8c46ca2e/7-xception-binary-classification)
 Имеется датасет состоящий из изображений двух типов - черные дыры и галактики. Необходимо предсказать к какому классу относится изображение.
-**Цель:**
 
+**Цель:**
 Получена метрика accuracy 0.975.
 
 https://www.kaggle.com/code/nikitavet/xception-binary-classification
