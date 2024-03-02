@@ -37,7 +37,7 @@
 **Цель:**
 Исследование надёжности заёмщиков для кредитного отдела банка с целью построения модели кредитного скоринга
 
-### [Предсказание стоимоси жилья](https://github.com/Nikita-Vet/MyPracticum/tree/c98a77879fd4e4208785abb1645346a6a198eaa6/6-house-price-prediction)
+### [Предсказание стоимости жилья](https://github.com/Nikita-Vet/MyPracticum/tree/c98a77879fd4e4208785abb1645346a6a198eaa6/6-house-price-prediction)
 Участие в тематическом соревновании Kaggle.
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
